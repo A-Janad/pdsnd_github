@@ -8,7 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 City_Names = ["chicago", "washington", "new york"]
 
-def modify_month_names(month_number):
+def align_months(month_number):
     
     months_names = {1:'January', 2:'February', 3:'March', 
              4:'April', 5:'May', 6:'June', 7:'July',
@@ -74,7 +74,7 @@ def load_data(city, month, day):
     df['hour'] = df['Start Time'].dt.hour
 
     # Modify the name of the months
-    df["month"] = df.month.apply(modify_month_names)
+    df["month"] = df.month.apply(align_months)
     
     if month != 'all':
         df = df[ df['month'].str.lower() == month ]
