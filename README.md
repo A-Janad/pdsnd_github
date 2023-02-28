@@ -13,8 +13,8 @@ The software you may require for this project can be downloaded from this link: 
 In this project, you'll be simulating a realistic workflow to refactor your previous BikeShare_2 project using Git. You will also practice creating branches using Git to make some changes to your project.
 
 ### Files used
-Include the files used
+The file that you will need to submit this project is (Git Commands Documentation.pdf)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://git-scm.com/doc , Git Documentation is very helpgul and useful
 

@@ -51,7 +51,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+# this function is used to load dataset, and adding a three new cloumns Month, Day, and Hour
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
