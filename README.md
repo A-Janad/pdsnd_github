@@ -1,13 +1,13 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+
 
 ### Date created
-Include the date you created this project and README file.
+February,28 2023
 
 ### Project Title
-Replace the Project Title
+Post your Project on Github
 
 ### Description
-Describe what your project is about and what it does
+In this project, you'll be simulating a realistic workflow to refactor your previous BikeShare_2 project using Git. You will also practice creating branches using Git to make some changes to your project.
 
 ### Files used
 Include the files used
